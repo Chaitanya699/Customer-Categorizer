@@ -117,8 +117,6 @@ Git & GitHub
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/customer-categorizer.git
-cd customer-categorizer
 
 2️⃣ Create and activate virtual environment
 conda create -n customer_ds python=3.10
@@ -170,3 +168,4 @@ Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast
 ⭐ Conclusion
 
 This project provides a complete data science pipeline for customer segmentation, demonstrating best practices in data ingestion, preprocessing, unsupervised learning, and visualization. It helps businesses make data-driven decisions and improve customer engagement.
+
